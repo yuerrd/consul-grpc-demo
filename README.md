@@ -1,4 +1,4 @@
-## Consul  Spring Boot Grpc Demo
+## Spring Boot Consul gRPC Example
 
 #### Docker Install Consul
 
